@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobiletugas2</string>
+    <string name="pindah_activity_dengan_pojo">Activity 2 (with POJO)</string>
+    <string name="pindah_acitivty">Activity 1</string>
+    <string name="title_activity_move">MoveActivity</string>
+    <string name="object_is_received">Object is Received!</string>
+</resources>
